@@ -11,7 +11,7 @@ const root = createRoot(container)
 root.render(
   <>
     <Helmet
-      title={''}
+      title={'MTG Arenaプレミアドラフト　ジェム溶かしチェッカー'}
     />
 
     <HashRouter>
