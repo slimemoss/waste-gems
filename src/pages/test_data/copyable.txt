@@ -1,0 +1,24 @@
+
+17Lands
+
+    Getting Started
+    My Data
+    Analytics
+    Articles
+    Support
+    Account
+
+Interested in supporting 17Lands? We have a Patreon page at patreon.com/17lands!
+Event History
+Want to let others view your events? Send them the link to your event history, game history, latest draft or latest deck!
+–
+Date	Account	Set	Trophy	Colors	W/L	Format	Start Rank	End Rank	Shareable Links
+2024-04-25 03:04	slimemoss	OTJ		RGb	5 - 3	PremierDraft	Platinum-1	Diamond-4	Draft, Pool, Deck 1, Deck 2, Deck 3, Details
+2024-04-23 09:07	slimemoss	OTJ	x	WGr	7 - 2	PremierDraft	Platinum-2	Platinum-1	Draft, Pool, Deck 1, Details
+2024-04-22 06:05	slimemoss	OTJ	x	WRg	7 - 1	PremierDraft	Platinum-3	Platinum-2	Draft, Pool, Deck 1, Deck 2, Details
+2024-04-20 02:32	slimemoss	OTJ		UBRw	3 - 3	PremierDraft	Platinum-3	Platinum-3	Draft, Pool, Deck 1, Deck 2, Details
+2024-04-20 00:39	slimemoss	OTJ		WG	4 - 3	PremierDraft	Platinum-3	Platinum-3	Draft, Pool, Deck 1, Details
+2024-04-18 20:47	slimemoss	OTJ	x	BGwr	7 - 2	PremierDraft	Platinum-4	Platinum-3	Draft, Pool, Deck 1, Details
+2024-04-18 18:12	slimemoss	OTJ		UBr	2 - 3	PremierDraft	Platinum-4	Platinum-4	Draft, Pool, Deck 1, Deck 2, Details
+2024-04-18 16:56	slimemoss	OTJ		BG	1 - 3	PremierDraft	Platinum-4	Platinum-4	Draft, Pool, Deck 1, Deck 2, Details
+2024-04-18 01:16	slimemoss	OTJ		WG	4 - 3	PremierDraft	Gold-1	Platinum-4	Draft, Pool, Deck 1, Details
