@@ -22,3 +22,4 @@ Date	Account	Set	Trophy	Colors	W/L	Format	Start Rank	End Rank	Shareable Links
 2024-04-18 18:12	slimemoss	OTJ		UBr	2 - 3	PremierDraft	Platinum-4	Platinum-4	Draft, Pool, Deck 1, Deck 2, Details
 2024-04-18 16:56	slimemoss	OTJ		BG	1 - 3	PremierDraft	Platinum-4	Platinum-4	Draft, Pool, Deck 1, Deck 2, Details
 2024-04-18 01:16	slimemoss	OTJ		WG	4 - 3	PremierDraft	Gold-1	Platinum-4	Draft, Pool, Deck 1, Details
+Infinity
